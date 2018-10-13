@@ -14,6 +14,7 @@
     <polygon points="0,0 0,14 7.33333,15 10.3333,0.333333 8.66667,-7"/>
    </object>
    <object id="2" x="11.3333" y="0.666667" width="11.3333" height="14.3333"/>
+   <object id="3" x="11.0909" y="0" width="5.27273" height="15.9091"/>
   </objectgroup>
  </tile>
  <tile id="680">
